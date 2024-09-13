@@ -2,7 +2,7 @@ import React ,{useState}from 'react'
 import { useRef } from 'react'
 import './Navbar.css'
 
-import logo from '../../assets/logo.svg' 
+import Kirat_logo from '../../assets/Kirat_logo.png' 
 import underline from '../../assets/nav_underline.svg'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import menu_open from '../../assets/menu_open.svg'
@@ -22,7 +22,9 @@ const closeMenu = () =>{
 
   return (
     <div className='navbar'>
-        <img src={logo} alt=" "/>
+      <div className='navbar-logo'>
+        <img src={Kirat_logo} alt=" "/>
+        </div>
         <img src={menu_open} onClick={openMenu} alt=" " className='nav-mob-open'/>
         <ul  ref={menuRef} className='nav-menu'>
          <img src={menu_close} onClick={closeMenu} alt=" " className='nav-mob-close'/>

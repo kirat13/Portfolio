@@ -1,7 +1,6 @@
 import React from 'react'
 import './Footer.css'
-import footer_logo from '../../assets/footer_logo.svg'
-
+import Kirat_logo from '../../assets/Kirat_logo.png' 
 
 const Footer = () => {
   return (
@@ -9,8 +8,8 @@ const Footer = () => {
       <div className="footer">
         <div className="footer-top">
             <div className="footer-top-left">
-            <img src={footer_logo} alt=" "/>
-            <p>I Am a Web Developer from India</p>
+            <img src={Kirat_logo} alt=" "/>
+          
             </div>
            
             </div>

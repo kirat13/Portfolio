@@ -8,6 +8,11 @@
 .hero-img {
     margin-top: 150px;
 }
+.hero img{
+    border-radius: 50%;
+    width: 20%;
+    height: 25%;
+}
 
 .hero h3 {
     text-align: center;
@@ -65,9 +70,9 @@
     .hero img {
         margin-top: 120px;
         width: 260px;
-    }
+    }  
 
-    .hero h1 {
+    .hero h3 {
         margin-top: 50px;
         width: 90%;
         font-size: 50px;

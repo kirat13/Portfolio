@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './Components/Navbar/Navbar'
-import Hero from './Components/Hero/Hero'
+import Intro from './Components/Intro/Intro'
 import About from './Components/About/About'
 import MyWork from './Components/MyWork/MyWork'
 import Contact from './Components/Contact/Contact'
@@ -11,7 +11,7 @@ const App = () => {
   return (
     <div>
       <Navbar/>
-      <Hero/>
+      <Intro/>
       <About/>
       <MyWork/>
       <Contact/>
