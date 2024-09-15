@@ -14,8 +14,8 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 * React 18.3.1
 * Vite 5.3.4 for fast development and building
 * React Anchor Link Smooth Scroll 1.0.12 for smooth scrolling
-* CSS3 for styling (assumed, not explicitly mentioned in provided files)
-* GitHub Pages for deployment
+* CSS3 for styling 
+
 ## Demo :
 
 https://kirat13.github.io/Portfolio/
