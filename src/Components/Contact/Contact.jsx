@@ -41,8 +41,7 @@ const [result, setResult] = React.useState("");
                 <div className="contact-section">
                     <div className="contact-left">
                         <h1>Let's talk</h1>
-                        <p> I'm Currently avaliable to take  on new projects , so feel free to
-                            send me a message about anything that you want me to work on.
+                        <p> Let's brainstorm together. Your message could spark the next big thing! , I'm always excited to connect.    
                         </p>
                     
                     <div className="contact-details">

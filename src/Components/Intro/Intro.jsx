@@ -10,7 +10,7 @@ const Intro = () => {
         <h3><span>I'm Gurkirat Kaur </span></h3>
         <p>I am a Tech-Savvy professional with a blend of Technical expertise and
           Business acumen, holding a degree in MBA. My passion lies in
-           coding and data analytics, with a strong foundation in web development, 
+           Coding and Data Analytics, with a strong foundation in web development, 
            programming, and data analysis tools like Python, SQL, Power BI, and Excel.
             I have had the privilege of teaching these technologies to aspiring computer science students,
           helping them harness their potential in the tech world.</p>

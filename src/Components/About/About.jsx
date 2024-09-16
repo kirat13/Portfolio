@@ -18,11 +18,11 @@ const About = () => {
                     <div className="about-right">
                         <div className="about-para">
                             <p>An Educator at Heart and a Leader by Profession, I’ve spent years 
-                                nurturing talent in web development, programming, and data analytics.With extensive experience teaching computer science students,
-                                I specialize in web development, programming languages like Java, Python, 
+                                nurturing talent in Web Development, Programming, and Data Analytics.With extensive experience teaching Computer Science students,
+                                I specialize in Web development, Programming languages like Java, Python, 
                                 and JavaScript, and data analytics using tools such as Power BI, Excel, and SQL.
                                 </p>
-                                <p>As the Managing Director of Ken Computers, I’ve had the opportunity to not only shape minds but also steer the institution, handling all official documentation, operations, and growth strategies. I thrive at the intersection of technology, education, and leadership, always seeking to create impactful learning experiences while driving organizational success.</p>
+                                <p>As the Managing Director of Ken Computers, I’ve had the opportunity to not only shape minds but also steer the Institution, handling all official documentation, operations, and growth strategies. I thrive at the intersection of technology, education, and leadership, always seeking to create Impactful learning experiences while driving organizational success.</p>
                         </div>
 
                         <div className="about-skills">
