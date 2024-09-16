@@ -22,25 +22,25 @@ const mywork_data = [
         w_no:3,
         w_name:"Movie Search",
         w_img:Project3_img,
-        w_link:"https://github.com/kirat13/Movie-Search-JS-ApI"
+        w_link:"https://github.com/kirat13/Movie-Search-JS-ApI.git"
     },
     {
         w_no:4,
         w_name:"Text Editor",
         w_img:Project4_img,
-        w_link:"https://github.com/kirat13/Text-Editor-React"
+        w_link:"https://github.com/kirat13/Text-Editor-React.git"
     },
     {
         w_no:5,
         w_name:"Excel dashboard",
         w_img:Project5_img,
-        w_link:"https://github.com/kirat13/Road-Accident-Data-Analysis-in-Excel"
+        w_link:"https://github.com/kirat13/Road-Accident-Data-Analysis-in-Excel.git"
     },
     {
         w_no:6,
         w_name:"Power Bi Dashboard",
         w_img:Project6_img,
-        w_link:"https://github.com/kirat13/Zomato-DataAnalysis-Visualization-PowerBi"
+        w_link:"https://github.com/kirat13/Zomato-DataAnalysis-Visualization-PowerBi.git"
     },
 ]
  
