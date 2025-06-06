@@ -18,7 +18,7 @@ Welcome to my personal portfolio repository! This project showcases my skills, e
 
 ## Demo :
 
-https://kirat13.github.io/Portfolio/
+
 ## Usage
 
 1. To run the development server:
