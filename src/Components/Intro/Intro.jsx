@@ -18,7 +18,7 @@ const Intro = () => {
             <div className="hero-connect"><AnchorLink className='anchor-link' offset={50} href="#contact">
               Connect With Me
             </AnchorLink> </div>
-            <div className="hero-Resume"><a href="https://drive.google.com/file/d/1epD_RaEPDRq0hOcKgfmI27cp0ahIIxa2/view?usp=sharing">My Resume</a></div>
+            <div className="hero-Resume"><a href="https://drive.google.com/file/d/1QforV7KjvDwQkuxie9R2VccPTc1IzieL/view?usp=sharing">My Resume</a></div>
           </div>
 
 

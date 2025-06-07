@@ -22,7 +22,7 @@ const About = () => {
                                 I specialize in Web development, Programming languages like Java, Python, 
                                 and JavaScript, and data analytics using tools such as Power BI, Excel, and SQL.
                                 </p>
-                                <p>As the Managing Director of Ken Computers, I’ve had the opportunity to not only shape minds but also steer the Institution, handling all official documentation, operations, and growth strategies. I thrive at the intersection of technology, education, and leadership, always seeking to create Impactful learning experiences while driving organizational success.</p>
+                                <p>As an Associate Director of Ken Computers, I’ve had the opportunity to not only shape minds but also steer the Institution, handling all official documentation, operations, and growth strategies. I thrive at the intersection of technology, education, and leadership, always seeking to create Impactful learning experiences while driving organizational success.</p>
                         </div>
 
                         <div className="about-skills">
@@ -31,6 +31,7 @@ const About = () => {
                             <div className="about-skill"><p>JavaScript</p><hr style={{ width: "60%" }}></hr></div>
                             <div className="about-skill"><p>Core & Adv.Java</p><hr style={{ width: "90%" }}></hr></div>
                             <div className="about-skill"><p>Python</p><hr style={{ width: "55%" }}></hr></div>
+                            <div className="about-skill"><p>R Programming</p><hr style={{ width: "40%" }}></hr></div>
                             <div className="about-skill"><p>C & C++</p><hr style={{ width: "50%" }}></hr></div>
                             <div className="about-skill"><p>Adv.Excel</p><hr style={{ width: "95%" }}></hr></div>
                             <div className="about-skill"><p>SQL</p><hr style={{ width: "60%" }}></hr></div>
@@ -42,7 +43,7 @@ const About = () => {
 
                 <div className="about-achievements">
                     <div className="about-achievement">
-                        <h1>4+</h1>
+                        <h1>5+</h1>
                         <p>YEARS OF EXPERIENCE</p>
                     </div>
                     <hr/>
